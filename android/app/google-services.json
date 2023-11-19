@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "974800364496",
+    "firebase_url": "https://capstoneproject-d86c2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "capstoneproject-d86c2",
+    "storage_bucket": "capstoneproject-d86c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974800364496:android:e726bd173335d0bd3ecfd5",
+        "android_client_info": {
+          "package_name": "com.example.capstone_project_pabile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974800364496-k71nu9hrheu4nuo45pci9sokj56gir6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb3DYamigZIgc5vfMINunp1ogBPOoL1j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974800364496-k71nu9hrheu4nuo45pci9sokj56gir6p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974800364496-0v71lqht13ognb3ob4gdb9sg1dkp54fs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pabileCapstoneproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974800364496:android:d64138346b6a08b43ecfd5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_pabile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974800364496-k71nu9hrheu4nuo45pci9sokj56gir6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb3DYamigZIgc5vfMINunp1ogBPOoL1j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974800364496-k71nu9hrheu4nuo45pci9sokj56gir6p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974800364496-0v71lqht13ognb3ob4gdb9sg1dkp54fs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pabileCapstoneproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974800364496:android:cfe53126d40a98d73ecfd5",
+        "android_client_info": {
+          "package_name": "com.example.pabile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974800364496-p2ec1i0kdirv541aaeihiool96o1sms6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pabile",
+            "certificate_hash": "9ca191cc57e67871132662decd616ccf0a7b9d5a"
+          }
+        },
+        {
+          "client_id": "974800364496-k71nu9hrheu4nuo45pci9sokj56gir6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb3DYamigZIgc5vfMINunp1ogBPOoL1j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974800364496-k71nu9hrheu4nuo45pci9sokj56gir6p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974800364496-0v71lqht13ognb3ob4gdb9sg1dkp54fs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pabileCapstoneproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
